@@ -1,0 +1,2 @@
+portablemc --work-dir /mnt/raid0/.minecraft start fabric:26.1.2 
+./minecraftv.sh Esteban 1536m 800 600 26.3
