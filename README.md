@@ -17,5 +17,5 @@ ejecuta con el comando
 ./minecraft.sh Esteban 1536m 800 600 26.3
 paremetro
 Esteban 1536m 800 600 26.3
-Usuario  RAM   Resolu. Vercion
+Usuario  RAM   Resolu. Version
 
